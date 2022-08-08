@@ -1,6 +1,9 @@
 body {
-	font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
-	letter-spacing: 0.05rem;
+	font-family: "Lato", sans-serif;
+    font-weight: 400;
+}
+.font-weight-extrabold {
+	font-weight: 900;
 }
 .row img {
 	width: 100%;
